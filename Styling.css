@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Changa');
+
+
+
+body{
+  font-family: Changa, sans-serif;
+  background: #170101;
+}
+
+h1{
+  color: whitesmoke;
+  font-size: 30px;
+  text-align: center;
+}
+
+#YT{
+  height: 400px;
+  width: 235px;
+  background: #070812;
+  border: 1.24px dashed orangered;
+  border-radius: 20px;
+  overflow: hidden;
+  border-top: 2.25px solid orangered;
+}
+
+.P{
+  height: 30px;
+  width: 70px;
+  color: #290505;
+  background: #1c0202;
+  border: 1.2px solid #1f0202;
+  border-radius: 15px;
+  text-align: center;
+}
+
+img{
+  height: 200px;
+  width: 235px;
+  border: none;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
